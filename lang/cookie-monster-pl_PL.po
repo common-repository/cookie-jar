@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie Jar\n"
+"POT-Creation-Date: 2019-04-19 10:54+0200\n"
+"PO-Revision-Date: 2019-04-19 10:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: gregbialowas.com <gregbialowas@yahoo.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cookie-jar.php:74
+msgid "This site uses cookies"
+msgstr "Strona używa ciasteczek"
+
+#: cookie-jar.php:75
+msgid "Close"
+msgstr "Zamknij"
+
+#: cookie-jar.php:76
+msgid "Read more"
+msgstr "Informacje"
+
+#: cookie-jar.php:97
+msgid "Cookie Jar - select the correspoding page"
+msgstr "Cookie Jar - wybierz stronę Polityki Cookies"
+
+#: cookie-jar.php:98
+msgid "Cookie Jar - settings"
+msgstr "Cookie Jar - ustawienia"
+
+#: main_admin.php:71
+msgid "Cookie Jar Settings"
+msgstr "Ustawienia Cookie Jar"
+
+#: main_admin.php:80
+msgid "Sorry, you do not have the privileges to perform this action."
+msgstr "Niestety, nie masz uprawnień do wykonania tej czynności."
+
+#: main_admin.php:114
+msgid "Cookie Jar settings have been updated!"
+msgstr "Ustawienia Cookie Jar zostały zaktualizowane!"
+
+#: main_admin.php:129
+msgid "Left"
+msgstr "lewej"
+
+#: main_admin.php:130
+msgid "Right"
+msgstr "prawej"
+
+#: main_admin.php:134
+msgid "Default"
+msgstr "Standardowe"
+
+#: main_admin.php:135
+msgid "Cookie"
+msgstr "Ciasteczko"
+
+#: main_admin.php:136
+msgid "Cookies"
+msgstr "Ciasteczka"
+
+#: main_admin.php:137
+msgid "Jar of Cookies"
+msgstr "Słoik z ciasteczkami"
+
+#: main_admin.php:142
+msgid "Select image to be displayed"
+msgstr "Wybierz obrazek ciasteczka"
+
+#: main_admin.php:145
+msgid "Cookie DIV should be placed on the:"
+msgstr "Kontener z informacją o cookie ma być umieszczony po stronie"
+
+#: main_admin.php:146 main_admin.php:155
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Wybierz &mdash;"
+
+#: main_admin.php:148
+msgid "Select the Cookie Policy page"
+msgstr "Wybierz stronę Polityki Cookies"
+
+#: main_admin.php:160
+msgid "Update settings"
+msgstr "Zapisz ustawienia"
+
+#~ msgid "Link to Cookie Policy page has been updated!"
+#~ msgstr "Link do strony Polityka Cookies został zaktualizowany!"
+
+#~ msgid "Update Cookie Policy link"
+#~ msgstr "Uaktualnij Link do strony Polityki Cookies"
